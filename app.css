@@ -1,0 +1,16 @@
+.btnContain {
+  display: flex;
+  justify-content: space-around;
+}
+
+#input {
+  width: 100%;
+}
+
+.btn {
+  margin: .5rem;
+}
+
+.btn:hover {
+  cursor: pointer;
+}
